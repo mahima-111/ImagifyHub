@@ -1,8 +1,7 @@
-# React + Vite
+# ImagifyHub
+#
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Developed ImagifyHub, an image repository app leveraging the Unsplash API for extensive photo collections.
+* Implemented efficient API calls using Axios, optimizing data retrieval and enhancing app performance.
+* Created a user-friendly interface to seamlessly browse and explore a diverse range of high-quality images.
+* Ensured a responsive design for a smooth user experience across various devices.
